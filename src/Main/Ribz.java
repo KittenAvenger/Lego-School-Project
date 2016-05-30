@@ -53,6 +53,8 @@ import datamining2.createUser;
 
 /** @author Dennis Nielsen
 */
+
+//	Test comment
 public class Ribz {
 
 	private JFrame frame;
